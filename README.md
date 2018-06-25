@@ -1,6 +1,6 @@
-# should-treeshake-mui
+# always-treeshake-mui
 
-Should TreeShake MUI with Next.js?
+Always TreeShake MUI with Next.js?
 
 Yes! You should to save few kilobytes
 
